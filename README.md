@@ -39,7 +39,7 @@ If you want to help, check out [./missing_summaries.txt](./missing_summaries.txt
 
 ## How can I contribute?
 
-**Important**: Please only manually modiy the files in the [./reference](./reference) directory, not the ones in `coins`, as those are the auto-generated ones. 
+**Important**: Please only manually modify the files in the [./reference](./reference) directory, not the ones in `coins`, as those are the auto-generated ones. 
 
 You can use the GitHub UI to instanly edit the description without any coding skills:
 
